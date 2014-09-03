@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="600">
+<meta http-equiv="refresh" content="1">
