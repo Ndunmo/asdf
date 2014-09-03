@@ -1,1 +1,1 @@
-<img src=javascript:alert(String.fromCharCode(88,83,83))>
+<meta http-equiv="refresh" content="600">
