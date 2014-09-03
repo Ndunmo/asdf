@@ -1,1 +1,1 @@
-<img src="/zgrimms/asdf/archive/master.zip">
+<img src="../../../../../../zgrimms/asdf/archive/master.zip">
