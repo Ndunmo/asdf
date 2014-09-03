@@ -1,1 +1,1 @@
-![alt tag](https://raw.github.com/username/proje"><img src=x onerror=prompt(0)>ctname/branch/path/to/img.png)
+![alt tag](/images/modules/dashboard/bootcamp/octocat_fork.png?e7b2917c)
